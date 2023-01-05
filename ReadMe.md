@@ -4,7 +4,7 @@
 
 This Flipper Zero firmware is a fork of Unleashed where I've added some custom Furret animations (and sprinkled in some other Pokemon)!
 
-[Easy Web Updater](https://lab.flipper.net/?url=https://github.com/rorosaurus/furret-zero-unleashed/releases/download/furret-zero-unleashed-023/furret-zero-unleashed-023.tgz&channel=release-cfw&version=furret-unleashed-023)
+[Easy Web Updater](https://lab.flipper.net/?url=https://roryhay.es/assets/files/furret-zero-unleashed/furret-zero-unleashed-023.tgz&channel=release-cfw&version=furret-unleashed-023)
 
 [Manual Install Instructions](documentation/HowToInstall.md)
 
