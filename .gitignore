@@ -1,6 +1,10 @@
 *.swp
 *.gdb_history
 
+# build
+build/
+dist/
+toolchain/
 
 # LSP
 .cache
