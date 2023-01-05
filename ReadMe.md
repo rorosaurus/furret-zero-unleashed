@@ -1,11 +1,18 @@
 # Furret Zero Unleashed!
 
-This is a fork of Unleashed where I've added some custom Furret animations and sprinkled in some other Pokemon into the firmware (found in the [RogueMaster firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins))!
+![he hack](he-hack.gif)
+
+This is a fork of Unleashed where I've added some custom Furret animations and sprinkled in some other Pokemon into the firmware!
+
+[Easy Web Updater](https://lab.flipper.net/?url=https://github.com/rorosaurus/furret-zero-unleashed/releases/download/furret-zero-unleashed-023/furret-zero-unleashed-023.tgz&channel=release-cfw&version=furret-unleased-023)
+[Manual Install Instructions](documentation/HowToInstall.md)
 
 
 **This firmware is a fork from** [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
 **...Which is a fork from** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+
+Non-Furret assets found in the [RogueMaster firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins).
 
 I intend to occasionally update this firmware to keep up with Unleashed.
 
