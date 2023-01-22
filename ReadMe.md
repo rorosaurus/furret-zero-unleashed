@@ -14,9 +14,9 @@ I intend to occasionally update this firmware to keep up with Unleashed.
 
 ## Install
 
-[Easy Web Updater](https://lab.flipper.net/?url=https://roryhay.es/assets/files/furret-zero-unleashed/furret-zero-unleashed-023.tgz&channel=release-cfw&version=furret-unleashed-023)
+[Easy Web Updater](https://lab.flipper.net/?url=https://rorosaurus.github.io/furret-zero-unleashed/releases/furret-zero-unleashed-023.tgz&channel=release-cfw&version=furret-unleashed-023)
 
-[Manual Install Instructions](documentation/HowToInstall.md)
+[Manual Install Instructions](documentation/HowToInstall.md) (Not modified for Furret, but close enough!)
 
 ## [- 🎲 Download Extra plugins for Unleashed](https://github.com/xMasterX/unleashed-extra-pack)
 
